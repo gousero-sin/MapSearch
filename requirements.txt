@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+python-dotenv
+playwright
+requests
+geopy
+thefuzz
+openai
+tqdm
