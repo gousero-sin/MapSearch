@@ -99,4 +99,4 @@ Este software é gratuito para uso pessoal, educativo ou interno (não comercial
 Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
-Copyright © 2025 - Desenvolvido por [Seu Nome/Empresa].
+Copyright © 2025 - Desenvolvido com ❤️, por Gousero.
