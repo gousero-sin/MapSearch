@@ -1,0 +1,28 @@
+[
+  {
+    "PARCEIRO": "Test1",
+    "COMPLETO": "Rua da Consolação, São Paulo",
+    "LAT": -23.5489,
+    "LONG": -46.6388,
+    "VALIDATION_STATUS": "VALID",
+    "VALIDATION_REASON": "High Precision (<50m)",
+    "DISTANCE_METERS": 5.2,
+    "MATCH_SCORE": 50,
+    "DS_STREET": "",
+    "DS_CITY": "",
+    "NOMINATIM_ADDRESS": "Parque Anhangabau, República, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01007-020, Brasil"
+  },
+  {
+    "PARCEIRO": "Test2",
+    "COMPLETO": "Av Paulista, São Paulo",
+    "LAT": -10.0,
+    "LONG": -10.0,
+    "VALIDATION_STATUS": "INVALID",
+    "VALIDATION_REASON": "Geocoding Failed",
+    "DISTANCE_METERS": 0,
+    "MATCH_SCORE": 0,
+    "DS_STREET": "",
+    "DS_CITY": "",
+    "NOMINATIM_ADDRESS": null
+  }
+]
